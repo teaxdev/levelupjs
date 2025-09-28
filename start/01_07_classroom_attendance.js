@@ -1,5 +1,6 @@
 // Write your code here
 
-function getStudents(classroom) {
 
+function getStudents(classroom) {
+classroom = {}
 }
